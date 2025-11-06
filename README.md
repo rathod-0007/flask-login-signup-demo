@@ -33,13 +33,14 @@ This project demonstrates how to handle form data using Flask and render templat
 
 ## 📂 Project Structure
 ```
-flask-signup-app/
+flask/FLASK
 │
 ├── app.py
+├── main.py
 ├── templates/
 │   └── signup.html
 |   └── about.html
-└── README.md
+└── requirements.txt
 ```
 
 ## 📜 License
